@@ -35,7 +35,7 @@ public class Main {
         Comments comment1 = new Comments(customers1,post1,"Keep playing");
         Comments comment2 = new Comments(customers2,post2,"Drink");
         Comments comment3 = new Comments(customers3,post3,"Keep reading and growing");
-        Comments comment4 = new Comments(customers4,post1,null);
+        Comments comment4 = new Comments(customers4,post1,"");
         Comments comment5 = new Comments(customers5,post4,"Read More Books");
 
         comment.add(comment1);
